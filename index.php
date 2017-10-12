@@ -5,6 +5,6 @@
         <title></title>
     </head>
     <body>        
-        <?php echo '<p>Hola CUI en PHP!</p>'; ?>
+        <?php echo '<p>Hola Universidad de Ixtlahuaca (En PHP)!</p>'; ?>
     </body>
 </html>
