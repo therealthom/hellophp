@@ -4,7 +4,8 @@
         <meta charset="UTF-8">
         <title></title>
     </head>
-    <body>        
-        <?php echo '<p>Hola Universidad de Ixtlahuaca (En PHP)!</p>'; ?>
+    <body>
+        <p></p>
+        <?php echo '<p>Comienza!</p>'; ?>
     </body>
 </html>
