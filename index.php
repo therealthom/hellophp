@@ -6,6 +6,6 @@
     </head>
     <body>
         <p></p>
-        <?php echo '<p>Comienza!</p>'; ?>
+        <?php echo '<p>Hola AMX!</p>'; ?>
     </body>
 </html>
