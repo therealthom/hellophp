@@ -20,6 +20,10 @@
             $numero = 20; 
             $resultado = obtieneFactorial($numero); 
             echo "Factorial de $numero = $resultado"; 
+            echo "Factorial de $numero = $resultado"; 
+            echo "Factorial de $numero = $resultado"; 
+            echo "Factorial de $numero = $resultado"; 
+            echo "Factorial de $numero = $resultado";     
         ?> 
     </body>
 </html>
