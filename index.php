@@ -19,7 +19,7 @@
             //Ejemplo
             $numero = 20; 
             $resultado = obtieneFactorial($numero); 
-            echo "Hola, Ultrasist! -> $numero = $resultado";    
+            echo "Hola, Mundo! -> $numero = $resultado";    
         ?> 
     </body>
 </html>
