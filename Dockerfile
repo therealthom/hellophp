@@ -1,7 +1,4 @@
-FROM registry.access.redhat.com/ubi7/ubi:latest
-MAINTAINER Tomas Moreno <tmorenop@nuup.ninja>
-RUN yum install -y httpd; yum clean all
-USER apache
-COPY index.php /var/www/html/
+FROM php:8.0-apache
+WORKDIR /var/www/html
+COPY index.php index.php
 EXPOSE 80
-ENTRYPOINT [ "/usr/sbin/httpd","-D","FOREGROUND" ]
