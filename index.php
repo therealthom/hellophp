@@ -19,6 +19,10 @@
             //Ejemplo
             $numero = 20; 
             $resultado = obtieneFactorial($numero); 
+            $resultado = obtieneFactorial($numero); 
+            $resultado = obtieneFactorial($numero); 
+            $resultado = obtieneFactorial($numero); 
+            $resultado = obtieneFactorial($numero); 
             echo "Hola, Mundo! -> $numero = $resultado";    
         ?> 
     </body>
