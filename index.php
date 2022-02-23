@@ -18,7 +18,7 @@
 
             //Ejemplo
             $numero = 20; 
-            for ($i = 1; $i <= 20; $i++){ 
+            for ($i = 1; $i <= 50; $i++){ 
                 $resultado = obtieneFactorial($numero); 
             }
                        
